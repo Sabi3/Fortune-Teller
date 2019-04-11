@@ -1,0 +1,19 @@
+input{
+    color:black;
+    }
+*{
+    text-align:center;
+    color:white;
+    font-family: 'Oswald', sans-serif;
+    }
+body{
+    margin-top:100px;
+    Background-color:Black;
+    }
+.enter{
+    margin-top:10px;
+    width:100px;
+    height:25px;
+    background-color:darkred;
+    border:none;
+    }
